@@ -1,0 +1,47 @@
+{
+  "rows": 10000,
+  "columns": 4,
+  "missing_values": {
+    "rainfall_24h": 0,
+    "water_level_m": 0,
+    "drainage_percent": 0,
+    "risk_label": 0
+  },
+  "class_distribution": {
+    "0": 1209,
+    "1": 3734,
+    "2": 5057
+  },
+  "statistics": {
+    "rainfall_24h": {
+      "count": 10000.0,
+      "mean": 150.015,
+      "std": 86.032,
+      "min": 0.014,
+      "25%": 76.124,
+      "50%": 150.62,
+      "75%": 223.402,
+      "max": 299.97
+    },
+    "water_level_m": {
+      "count": 10000.0,
+      "mean": 5.018,
+      "std": 2.877,
+      "min": 0.003,
+      "25%": 2.539,
+      "50%": 5.042,
+      "75%": 7.525,
+      "max": 9.997
+    },
+    "drainage_percent": {
+      "count": 10000.0,
+      "mean": 82.43,
+      "std": 17.501,
+      "min": 65.0,
+      "25%": 65.0,
+      "50%": 65.0,
+      "75%": 100.0,
+      "max": 100.0
+    }
+  }
+}

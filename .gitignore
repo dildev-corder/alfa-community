@@ -1,0 +1,43 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+pubspec.lock
+android/.gradle/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.tool-home/
+.agents/
+skills-lock.json
+
+# Python and ML outputs
+__pycache__/
+*.pyc
+ml/runs/
+runs/
+
+# Installed dependencies and temporary document builds
+functions/node_modules/
+.presentation_build/
+tmp/
+*.inspect.ndjson
+
+# Trained models are generated artifacts
+assets/models/*.tflite
+
+# Local datasets, training outputs, and large model binaries
+datasets/*_raw/
+datasets/garbage/
+datasets/elephant/
+*.pt
+*.npy
+
+# Generated reports and exported deliverables
+output/
+*.inspect.ndjson

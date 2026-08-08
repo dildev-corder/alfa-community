@@ -1,0 +1,24 @@
+{
+  "logistic_regression": {
+    "accuracy": 0.5015,
+    "macro_f1": 0.2953
+  },
+  "random_forest": {
+    "accuracy": 0.4565,
+    "macro_f1": 0.394
+  },
+  "baseline_random_forest_test": {
+    "accuracy": 0.4645,
+    "macro_f1": 0.3871
+  },
+  "tuned_random_forest_test": {
+    "accuracy": 0.419,
+    "macro_f1": 0.4098
+  },
+  "best_parameters": {
+    "model__n_estimators": 300,
+    "model__min_samples_split": 10,
+    "model__max_depth": 24,
+    "model__class_weight": "balanced"
+  }
+}

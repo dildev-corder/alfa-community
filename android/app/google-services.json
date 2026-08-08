@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "197668764862",
+    "firebase_url": "https://alpha-community-95a5c-default-rtdb.firebaseio.com",
+    "project_id": "alpha-community-95a5c",
+    "storage_bucket": "alpha-community-95a5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197668764862:android:58fb0ef0241b8252a8f2ef",
+        "android_client_info": {
+          "package_name": "com.example.alfa_citizen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8FMQb8HWOBFXoMoIDWXa1eDUuxhjhqqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
